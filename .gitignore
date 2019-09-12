@@ -1,0 +1,5 @@
+*.pyc
+imgs/
+demo.py
+.idea
+*.ckpt
